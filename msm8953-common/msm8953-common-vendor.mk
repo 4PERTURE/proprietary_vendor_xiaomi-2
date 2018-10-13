@@ -800,6 +800,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libantradio \
+    vendor.display.color@1.0 \
     vendor.qti.hardware.fm@1.0 \
     libbtnv \
     libgpustats \
